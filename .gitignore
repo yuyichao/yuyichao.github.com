@@ -1,0 +1,12 @@
+.*
+!.gitignore
+*~
+.*/
+tmp/
+yfs
+*.o
+*.so
+*.a
+*.lib
+*.log
+
